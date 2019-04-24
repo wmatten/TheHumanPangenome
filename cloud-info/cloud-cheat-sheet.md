@@ -1,4 +1,3 @@
-# TEST
 
 > This is a working document / work in progress.  Please submit issues or pull requests for any issues or edits.
 
